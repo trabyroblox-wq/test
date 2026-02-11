@@ -3,62 +3,105 @@
     {
       "name": "There Is No Game",
       "image": "assets/game1.png",
-      "url": "https://23azostore.github.io/s/there-is-no-game/"
+      "url": "https://23azostore.github.io/s/there-is-no-game/",
+       "category": "Puzzle"
+    },
+    {
+      "name": "Another Game",
+      "image": "assets/game2.png",
+      "url": "https://example.com/game2/",
+       "category": "Puzzle"
+    },
+    {
+      "name": "Cooking Mama",
+      "image": "assets/cookbook.png",
+      "url": "https://388221543-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html",
+       "category": "Retro"
+    },
+    {
+      "name": "FNaF",
+      "image": "assets/bear2.jpg",
+      "url": "https://run3.io/popgame/fnaf/fnaf1/",
+       "category": "Horror"
+    },
+    {
+      "name": "Retro Bowl",
+      "image": "assets/rb.png",
+      "url": "https://htmlxm.github.io/h/retro-bowl",
+       "category": "Sports"
+   {
+  "games": [
+    {
+      "name": "There Is No Game",
+      "image": "assets/game1.png",
+      "url": "https://23azostore.github.io/s/there-is-no-game/",
+       "category": "Logic"
     },
     {
       "name": "Another Game",
       "image": "assets/game2.png",
       "url": "https://example.com/game2/"
+       "category": "category"
     },
     {
       "name": "Cooking Mama",
       "image": "assets/cookbook.png",
-      "url": "https://388221543-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html"
+      "url": "https://388221543-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html",
+       "category": "Cooking"
     },
     {
       "name": "FNaF",
       "image": "assets/bear2.jpg",
-      "url": "https://run3.io/popgame/fnaf/fnaf1/"
+      "url": "https://run3.io/popgame/fnaf/fnaf1/",
+       "category": "Horror"
     },
     {
       "name": "Retro Bowl",
       "image": "assets/rb.png",
-      "url": "https://htmlxm.github.io/h/retro-bowl"
+      "url": "https://htmlxm.github.io/h/retro-bowl",
     },
     {
       "name": "Soccer Dash",
       "image": "assets/sd.png",
-      "url": "https://cdn.vietdp.com/file/vietdp-games/games/t52025/soccer-dash/index.html"
+      "url": "https://cdn.vietdp.com/file/vietdp-games/games/t52025/soccer-dash/index.html",
+       "category": "Sports"
     },
     {
       "name": "Basket Random",
       "image": "assets/download (16).jpg",
-      "url": "https://raw.githack.com/galacticnetwork/3kh0-assets/main/basket-random/index.html"
+      "url": "https://raw.githack.com/galacticnetwork/3kh0-assets/main/basket-random/index.html",
+       "category": "Sports"
     },
     {
       "name": "Duck Life 1",
       "image": "assets/d.jpg",
-      "url": "https://raw.githack.com/BinBashBanana/gfiles/master/gfiles/flash/index.html?swf=ducklife.swf"
+      "url": "https://raw.githack.com/BinBashBanana/gfiles/master/gfiles/flash/index.html?swf=ducklife.swf",
+       "category": "Platformer"
     },
     {
       "name": "Impossible Quiz",
       "image": "assets/q.jpg",
-      "url": "https://raw.githack.com/BinBashBanana/gfiles/master/gfiles/flash/index.html?swf=theimpossiblequiz.swf"
+      "url": "https://raw.githack.com/BinBashBanana/gfiles/master/gfiles/flash/index.html?swf=theimpossiblequiz.swf",
+       "category": "Logic"
     },
     {
       "name": "Drunken Boxing",
       "image": "assets/download (17).jpg",
-      "url": "https://script.google.com/macros/s/AKfycbwc5jVID-SwT0ooKZL4PklvYpIirxj62ayJAIVomuKBb3Y31W7ROeIBu6L28l7G8zACtw/exec"
+      "url": "https://script.google.com/macros/s/AKfycbwc5jVID-SwT0ooKZL4PklvYpIirxj62ayJAIVomuKBb3Y31W7ROeIBu6L28l7G8zACtw/exec",
+       "category": "Fighting"
     },
     {
       "name": "Subway Surfers",
       "image": "assets/su.jpg",
-      "url": "https://raw.githack.com/galacticnetwork/3kh0-assets/main/subway-surfers/index.html"
+      "url": "https://raw.githack.com/galacticnetwork/3kh0-assets/main/subway-surfers/index.html",
+       "category": "Logic"
+       
     },
     {
       "name": "Super Smash Bros",
       "image": "assets/3d.jpg",
-      "url": "https://super-smash-bros-unblocked.vercel.app/"
+      "url": "https://super-smash-bros-unblocked.vercel.app/",
+       "category": "Combat"
     }
   ]
 }
