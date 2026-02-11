@@ -1,0 +1,64 @@
+   {
+  "games": [
+    {
+      "name": "There Is No Game",
+      "image": "assets/game1.png",
+      "url": "https://23azostore.github.io/s/there-is-no-game/"
+    },
+    {
+      "name": "Another Game",
+      "image": "assets/game2.png",
+      "url": "https://example.com/game2/"
+    },
+    {
+      "name": "Cooking Mama",
+      "image": "assets/cookbook.png",
+      "url": "https://388221543-atari-embeds.googleusercontent.com/embeds/16cb204cf3a9d4d223a0a3fd8b0eec5d/inner-frame-minified.html"
+    },
+    {
+      "name": "FNaF",
+      "image": "assets/bear2.jpg",
+      "url": "https://run3.io/popgame/fnaf/fnaf1/"
+    },
+    {
+      "name": "Retro Bowl",
+      "image": "assets/rb.png",
+      "url": "https://htmlxm.github.io/h/retro-bowl"
+    },
+    {
+      "name": "Soccer Dash",
+      "image": "assets/sd.png",
+      "url": "https://cdn.vietdp.com/file/vietdp-games/games/t52025/soccer-dash/index.html"
+    },
+    {
+      "name": "Basket Random",
+      "image": "assets/download (16).jpg",
+      "url": "https://raw.githack.com/galacticnetwork/3kh0-assets/main/basket-random/index.html"
+    },
+    {
+      "name": "Duck Life 1",
+      "image": "assets/d.jpg",
+      "url": "https://raw.githack.com/BinBashBanana/gfiles/master/gfiles/flash/index.html?swf=ducklife.swf"
+    },
+    {
+      "name": "Impossible Quiz",
+      "image": "assets/q.jpg",
+      "url": "https://raw.githack.com/BinBashBanana/gfiles/master/gfiles/flash/index.html?swf=theimpossiblequiz.swf"
+    },
+    {
+      "name": "Drunken Boxing",
+      "image": "assets/download (17).jpg",
+      "url": "https://script.google.com/macros/s/AKfycbwc5jVID-SwT0ooKZL4PklvYpIirxj62ayJAIVomuKBb3Y31W7ROeIBu6L28l7G8zACtw/exec"
+    },
+    {
+      "name": "Subway Surfers",
+      "image": "assets/su.jpg",
+      "url": "https://raw.githack.com/galacticnetwork/3kh0-assets/main/subway-surfers/index.html"
+    },
+    {
+      "name": "Super Smash Bros",
+      "image": "assets/3d.jpg",
+      "url": "https://super-smash-bros-unblocked.vercel.app/"
+    }
+  ]
+}
