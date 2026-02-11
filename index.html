@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Hunsy 🐻</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+  <header class="top">
+    <h1>Hunsy 🐻</h1>
+    <input id="search" placeholder="Search games...">
+    <div class="filters">
+      <select id="categorySelect">
+        <option value="all">All Categories</option>
+      </select>
+      <button id="showFavoritesBtn">❤️ Favorites</button>
+    </div>
+  </header>
+
+  <main id="gameGrid"></main>
+
+  <!-- Background music -->
+  <audio id="bgMusic" loop>
+    <source src="assets/music.mp3" type="audio/mpeg">
+  </audio>
+
+  <!-- Settings Button -->
+  <button id="settingsBtn">⚙</button>
+  <div id="settingsPanel">
+    <h2>Settings</h2>
+    <label><input type="checkbox" id="darkModeToggle" checked> Dark Mode</label>
+    <label><input type="checkbox" id="musicToggle" checked> Music</label>
+    <label><input type="checkbox" id="showNamesToggle" checked> Show Game Names</label>
+    <label>Theme:
+      <select id="themeSelect">
+        <option value="purpleBlack">Purple Black</option>
+        <option value="blueBlack">Blue Black</option>
+        <option value="redBlack">Red Black</option>
+        <option value="greenBlack">Green Black</option>
+      </select>
+    </label>
+    <button id="funButton">🎉 Secret</button>
+    <button id="closeSettings">Close</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
