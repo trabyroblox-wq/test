@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Playing – Hunsy</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div style="padding:10px">
+  <button onclick="history.back()">⬅ Back</button>
+  <button onclick="fullscreen()">⛶ Fullscreen</button>
+</div>
+
+<iframe id="frame"></iframe>
+
+<script>
+  const params = new URLSearchParams(location.search);
+  const frame = document.getElementById("frame");
+  frame.src = params.get("url");
+
+  function fullscreen() {
+    frame.requestFullscreen();
+  }
+</script>
+
+<style>
+iframe {
+  width: 100vw;
+  height: calc(100vh - 60px);
+  border: none;
+}
+button {
+  background: #b784ff;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+</style>
+
+</body>
+</html>
